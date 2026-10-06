@@ -1,0 +1,19 @@
+# 编译产物
+*.class
+*.jar
+out/
+build/
+target/
+
+# IDE / 编辑器
+.idea/
+*.iml
+.vscode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 日志
+*.log
